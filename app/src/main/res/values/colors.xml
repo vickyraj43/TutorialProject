@@ -3,4 +3,123 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="lightBlue">#e5f4f7</color>
+    <color name="Primary_30_opa">#23424c</color>
+    <color name="majenta_color">#d481fa</color>
+    <color name="yellow_color1">#fab700</color>
+    <color name="radium_color">#a7fbd0</color>
+    <color name="maroon_color">#91061d</color>
+    <color name="light_green_color">#c8d600</color>
+    <color name="green_color">#69b802</color>
+
+    <color name="white_other">#f9f9f9</color>
+
+    <color name="secondaryColor">#54A1EE</color>
+
+    <color name="divider_ine">#000000</color>
+    <color name="white_divider_ine">#dddddd</color>
+    <color name="black_50_opa">#50000000</color>
+
+    <color name="black_70_opa">#99000000</color>
+    <color name="black_85_opa">#D9000000</color>
+    <color name="black_80_opa">#D9000000</color>
+    <color name="disable_gstin">#1A54A1EE</color>
+    <color name="black_90_opa">#E6000000</color>
+    <color name="black_60_opa">#C0C0C0</color>
+    <color name="black_65_opa">#A6000000</color>
+    <color name="black_10_opa">#f2f2f2</color>
+    <color name="black_15_opa">#26000000</color>
+    <color name="black_35_opa">#4D000000</color>
+    <color name="gray_theme">#2d2d2d</color>
+    <color name="dark_black">#869292</color>
+    <color name="shadow_line1">#CECECE</color>
+    <color name="shadow_line2">#E6E6E6</color>
+    <color name="secondaryColor_25_opa">#4054A1EE</color>
+    <color name="secondaryColor_12_opa">#1A54A1EE</color>
+    <color name="orange">#f2a163</color>
+
+    <color name="yellow_disable">#5d452a</color>
+    <color name="white_disable">#5d5d5d</color>
+
+    <color name="black_new_opa_50">#80000000</color>
+
+
+    <color name="green">#acdd5e</color>
+    <color name="dark_green">#159b48</color>
+    <color name="dark_red">#e22020</color>
+    <color name="cancel_dark_red">#871313</color>
+    <color name="cancel_state_dark_red">#430909</color>
+    <color name="dark_red_17_opa">#26e22020</color>
+
+    <color name="card_disable">#0D000000</color>
+    <color name="white">#ffffff</color>
+    <color name="light_gray">#e1e1e1</color>
+    <color name="lighter_grey">#ededed</color>
+
+    <color name="train_class_bg">#d5d5d5</color>
+    <color name="train_class_bg_60_opa">#99d5d5d5</color>
+
+    <color name="train_class_bg_border">#bcbcbc</color>
+    <color name="primary_blue">#00aeef</color>
+
+    <color name="card_view_shadow_color">#CABBBBBB</color>
+    <color name="light_yellow">#fea018</color>
+    <color name="light_yellow_stroke">#b17010</color>
+    <color name="light_brown">#a85400</color>
+    <color name="brown_btn_pressed">#643200</color>
+    <color name="light_btn_pressed">#c67b10</color>
+    <color name="primary_blue_btn_pressed">#005565</color>
+    <color name="white_btn_pressed">#bcbcbc</color>
+    <color name="white_70_opa">#B3ffffff</color>
+    <color name="white_80_opa">#CCffffff</color>
+    <color name="white_90_opa">#E6ffffff</color>
+    <color name="white_10_opa">#1Affffff</color>
+    <color name="white_50_opa">#80ffffff</color>
+    <color name="white_60_opa">#99ffffff</color>
+
+
+    <color name="dark_white">#fefefe</color>
+
+    <color name="darkGrey">#A9A9A9</color>
+    <color name="bgFrame">#70ffffff</color>
+    <color name="white_text_color">#acacac</color>
+    <color name="white_line_color">#474747</color>
+
+    <color name="white_gender_text_unselected">#505050</color>
+    <color name="pg_offer_color">#FEF77145</color>
+
+    <color name="red">#f44336</color>
+    <color name="indigo"> #3f51b5</color>
+    <color name="purple"> #9c27b0</color>
+    <color name="blue"> #2196f3</color>
+    <color name="pink"> #ec407a</color>
+    <color name="teal"> #009688</color>
+
+
+    <color name="primary">#3fa7ba</color>
+    <color name="primary_dark">#3895A7</color>
+    <color name="slate">#4b5b67</color>
+    <color name="actionbar_color">@color/slate</color>
+    <color name="text_color_new">#404040</color>
+    <color name="text_color">@color/text_color_new</color>
+    <color name="help_grey">#D8D8D8</color>
+
+    <color name="white1">#fff</color>
+    <color name="line_color">#eaeaea</color>
+    <color name="text_color_light_new">#808080</color>
+    <color name="text_color_light_grey">@color/text_color_light_new</color>
+    <color name="error_color">#f87474</color>
+    <color name="composite_edit_text_error_color">@color/error_color</color>
+    <color name="transparent1">#00000000</color>
+    <color name="transparent50">#50000000</color>
+    <color name="divider_grey">#eaebed</color>
+    <color name="text_color_inverse">@color/white1</color>
+    <color name="text_color_dark_gray">@color/text_color_new</color>
+    <color name="text_color_light_inverse">#a9b2bf</color>
+    <color name="line_color_inverse">#586270</color>
+    <color name="composite_edit_text_separator_color_inverse">@color/line_color_inverse</color>
+    <color name="composite_edit_text_separator_color">#eaebed</color>
+    <color name="bottom_sheet_title">#757575</color>
+    <color name="black_overlay">#60000000</color>
 </resources>
