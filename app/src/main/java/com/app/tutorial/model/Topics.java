@@ -3,7 +3,7 @@ package com.app.tutorial.model;
 import java.io.Serializable;
 import java.util.Arrays;
 
-public class Topics implements Serializable {
+public class Topics  {
     private String id ;
     private String type;
     private String name;

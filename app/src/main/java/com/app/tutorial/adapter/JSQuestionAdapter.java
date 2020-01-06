@@ -35,7 +35,7 @@ public class JSQuestionAdapter extends RecyclerView.Adapter<JSQuestionAdapter.JS
     @Override
     public void onBindViewHolder(@NonNull JSQuestionViewHolder jsQuestionViewHolder, final int position) {
         Questions questions =  questionsList.get(position);
-        jsQuestionViewHolder.question.setText(questions.getQid()+"> "+questions.getQuestion());
+        jsQuestionViewHolder.question.setText((position+1)+"> "+questions.getQuestion());
         jsQuestionViewHolder.answer.setText(questions.getAnswer());
 
     }

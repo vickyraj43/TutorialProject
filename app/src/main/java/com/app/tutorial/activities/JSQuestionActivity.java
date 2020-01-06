@@ -8,6 +8,7 @@ import com.app.tutorial.adapter.JSAdapter;
 import com.app.tutorial.model.Chapter;
 import com.app.tutorial.model.Questions;
 import com.app.tutorial.model.Topics;
+import com.app.tutorial.utils.CommonUtils;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -44,7 +45,8 @@ public class JSQuestionActivity extends AppCompatActivity {
         @Override
         public void onItemClick(Topics items) {
             Intent intent = new Intent(getApplicationContext(),JSQuestionDetails.class);
-            intent.putExtra("topics",items);
+            //intent.putExtra("topics",items);
+            CommonUtils.setTopics(items);
             startActivity(intent);
         }
     };
